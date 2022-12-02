@@ -2,10 +2,10 @@
 
 ## Comprobar  que GIT esté instalado 
 
-´´´
+
 git -v
 git version 2.38.1.windows.1
-´´´
+
 
 ## Configuración Global
 
@@ -31,3 +31,8 @@ git branch -M main
 git add --all
 git commit -m "my first commit"
 git push origin main
+
+
+## Revisar el status
+
+git status
